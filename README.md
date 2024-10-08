@@ -20,6 +20,7 @@ Pickle: For saving and loading parking space configurations
 ## Installation
 
 Clone the repository:
+
 git clone https://github.com/yourusername/automated-car-parking-system.git
 cd automated-car-parking-system
 
